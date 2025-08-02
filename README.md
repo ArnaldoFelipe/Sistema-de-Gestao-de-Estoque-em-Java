@@ -28,7 +28,7 @@ Clone o repositório:
 
 Bash
 
-git clone [URL_DO_SEU_REPOSITORIO]
+git clone [https://github.com/ArnaldoFelipe/Sistema-de-Gest-o-de-Estoque-em-Java]
 Abra na sua IDE:
 Importe o projeto para sua IDE de preferência (IntelliJ, Eclipse, VS Code).
 
